@@ -17,6 +17,7 @@ public:
   CarRental();
   CarRental(int, std::string, std::string, std::string, int);
 
+
   void setVehicleParameters(int, std::string, 
   std::string, std::string, int);
   std::string getVehicleInfo();
